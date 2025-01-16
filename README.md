@@ -1,17 +1,13 @@
 # writesup Formation DevSecOPS 2025
 # Jour 1 : Cryptographic (engineering and reverse engineering engineering)
-Crypto : [crypto1](https://github.com/owaspf/Day5) [crypto2](https://github.com/owaspf/Day4) </br>
-reverse_engineering  [reverse_crypto1](https://github.com/SitrakaResearchAndPOC/docker_crypto_attack)
-* Jour 2 : IAM + audit + bug hunting
-</br>
-keycloack  [keycloack1](https://github.com/SitrakaResearchAndPOC/keycloak_test)
-</br>
-metasploit_metasploitable  [meta1](https://github.com/SitrakaResearchAndPOC/docker_metasploit_metasploitable)
-</br>
-overflow  [overflow1](https://github.com/SitrakaResearchAndPOC/overflow)
-</br>
-owaspf_waf  [waf1](https://github.com/SitrakaResearchAndPOC/wafmodsec)
-* Jour 3 : Devsecops and security of CI
+* Crypto : [crypto1](https://github.com/owaspf/Day5) [crypto2](https://github.com/owaspf/Day4) </br>
+* reverse_engineering  [reverse_crypto1](https://github.com/SitrakaResearchAndPOC/docker_crypto_attack)
+# Jour 2 : IAM + audit + bug hunting
+* keycloack  [keycloack1](https://github.com/SitrakaResearchAndPOC/keycloak_test) </br>
+* metasploit_metasploitable  [meta1](https://github.com/SitrakaResearchAndPOC/docker_metasploit_metasploitable </br>
+* overflow  [overflow1](https://github.com/SitrakaResearchAndPOC/overflow </br>
+* owaspf_waf  [waf1](https://github.com/SitrakaResearchAndPOC/wafmodsec)
+# Jour 3 : Devsecops and security of CI
 </br>
 sonarqube  [sonarqube1](https://github.com/SitrakaResearchAndPOC/sonarqube) [sonarqube2](https://www.youtube.com/watch?v=6vdRvz_LnbQ&t=9s)
 </br>
