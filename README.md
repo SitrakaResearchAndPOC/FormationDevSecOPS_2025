@@ -14,12 +14,12 @@
 # Jour 4 : Devsecops and security of CD & IaC & Observability
 * static iac analysis [checkov1](https://hub.docker.com/r/bridgecrew/checkov/dockerfile) [checkov2](https://github.com/bridgecrewio/checkov) [checkov3](https://www.youtube.com/watch?v=bAkwvmZ7OGA&t=353s) [checkov4](https://www.youtube.com/watch?v=G0mwHGdj3mo) [checkov5](https://www.youtube.com/watch?v=mj4LVOq--HE) [checkov](https://www.youtube.com/watch?v=ViiZ7VxQZYM) </br>
 * vulnerability scanning trivy [trivy1](https://github.com/SitrakaResearchAndPOC/trivy)  [trivy2](https://www.youtube.com/watch?v=dwce6Yl9N9Q) [trivy3](https://www.youtube.com/watch?v=BWp5JLXkbBc) </br>
-* vulnerability scanning falco  [falco1](https://www.youtube.com/watch?v=eCC_RFlyxkg) </br>
+* vulnerability scanning falco  [falco1](https://www.youtube.com/watch?v=eCC_RFlyxkg) [falco2](falco1](https://www.youtube.com/watch?v=7z1aqTi83w0) ) [falco3](https://www.youtube.com/watch?v=9P65jDKf8MM)</br>
 * id suricata  [suricata1](https://www.youtube.com/watch?v=JVoYRUMllss)  </br>
 * vulnerability scanning openvas  [openvas1](https://www.youtube.com/watch?v=Hdkd0URptv0) </br>
 * volatility  [volatility1](https://www.youtube.com/watch?v=RMvVIgqfzqE) </br>
 * wazuh  [wazuh1](https://www.youtube.com/watch?v=GslJfiRbLv8) [wazuh2](https://www.youtube.com/watch?v=0BqgKQ38USw) </br>
-* IaC Sercurity dynamic falco  [falco1](https://www.youtube.com/watch?v=7z1aqTi83w0) 
+
 # Final Ressource :
 * [ressource1](https://medium.com/cloud-native-daily/building-a-devsecops-pipeline-with-open-source-tools-ad4fd0e13515)
 * [ressource2](https://github.com/hahwul/DevSecOps)
