@@ -13,7 +13,7 @@
 * owasp zap  [zap1](https://www.youtube.com/watch?v=cn-EH_k2iLM)
 # Jour 4 : Devsecops and security of CD & IaC & Observability
 * static iac analysis [checkov1](https://hub.docker.com/r/bridgecrew/checkov/dockerfile) [checkov2](https://github.com/bridgecrewio/checkov) [checkov3](https://www.youtube.com/watch?v=bAkwvmZ7OGA&t=353s) [checkov4](https://www.youtube.com/watch?v=G0mwHGdj3mo) [checkov5](https://www.youtube.com/watch?v=mj4LVOq--HE) [checkov](https://www.youtube.com/watch?v=ViiZ7VxQZYM) </br>
-* vulnerability scanning trivy [trivy1](https://www.youtube.com/watch?v=dwce6Yl9N9Q) [trivy2](https://www.youtube.com/watch?v=BWp5JLXkbBc) </br>
+* vulnerability scanning trivy [trivy1](https://github.com/SitrakaResearchAndPOC/trivy)[trivy2](https://www.youtube.com/watch?v=dwce6Yl9N9Q) [trivy3](https://www.youtube.com/watch?v=BWp5JLXkbBc) </br>
 * vulnerability scanning falco  [falco1](https://www.youtube.com/watch?v=eCC_RFlyxkg) </br>
 * id suricata  [suricata1](https://www.youtube.com/watch?v=JVoYRUMllss)  </br>
 * vulnerability scanning openvas  [openvas1](https://www.youtube.com/watch?v=Hdkd0URptv0) </br>
