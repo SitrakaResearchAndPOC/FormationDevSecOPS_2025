@@ -1,8 +1,8 @@
 # writesup Formation DevSecOPS 2025
 # Jour 1 : Cryptographic (engineering and reverse engineering engineering)
 * Crypto :
-* [crypto1](https://github.com/owaspf/Day5)
-* [crypto2](https://github.com/owaspf/Day4)
+** [crypto1](https://github.com/owaspf/Day5)
+** [crypto2](https://github.com/owaspf/Day4)
 reverse_engineering  [reverse_crypto1](https://github.com/SitrakaResearchAndPOC/docker_crypto_attack)
 * Jour 2 : IAM + audit + bug hunting
 </br>
