@@ -21,13 +21,14 @@
 * wazuh  [wazuh1](https://www.youtube.com/watch?v=GslJfiRbLv8) [wazuh2](https://www.youtube.com/watch?v=0BqgKQ38USw) </br>
 * IaC Sercurity dynamic falco  [falco1](https://www.youtube.com/watch?v=7z1aqTi83w0) 
 # Final Ressource :
-* [ressource1]
+* [ressource1](https://medium.com/cloud-native-daily/building-a-devsecops-pipeline-with-open-source-tools-ad4fd0e13515)
 * [ressource2](https://github.com/hahwul/DevSecOps)
 * [ressource3](https://github-com.translate.goog/JakobTheDev/awesome-devsecops?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=sc)
-* [ressource4](https://github.com/kh4sh3i/DevSecOps) [ressource5](https://github.com/JakobTheDev/awesome-devsecops)
+* [ressource4](https://github.com/kh4sh3i/DevSecOps)
+* [ressource5](https://github.com/JakobTheDev/awesome-devsecops)
 * [ressource5](https://github.com/OWASP/DevSecOpsGuideline)
 * [ressource6](https://hackernoon.com/6-github-repos-for-devsecops-in-2024)
 * [ressource7](https://timspark.com/blog/devsecops-tools/)
 * [ressource8](https://www.stationx.net/top-devsecops-tools/)
 * [ressource9](https://github.com/devsecops/awesome-devsecops)
-*  [ressource10](https://github.com/sottlmarek/DevSecOps)
+* [ressource10](https://github.com/sottlmarek/DevSecOps)
