@@ -1,34 +1,42 @@
 # writesup Formation DevSecOPS 2025
-* Jour 1 :Cryptographic (engineering and reverse engineering engineering)
+* Jour 1 : Cryptographic (engineering and reverse engineering engineering)
+</br>
 Crypto   [crypto1](https://github.com/owaspf/Day5)[crypto2](https://github.com/owaspf/Day4)
 </br>
-reverse_engineering : [reverse_crypto1](https://github.com/SitrakaResearchAndPOC/docker_crypto_attack)
+reverse_engineering  [reverse_crypto1](https://github.com/SitrakaResearchAndPOC/docker_crypto_attack)
 * Jour 2 : IAM + audit + bug hunting
-keycloack : [keycloack1](https://github.com/SitrakaResearchAndPOC/keycloak_test)
-metasploit_metasploitable : [meta1](https://github.com/SitrakaResearchAndPOC/docker_metasploit_metasploitable)
-overflow : [overflow1](https://github.com/SitrakaResearchAndPOC/overflow)
-owaspf_waf : [waf1](https://github.com/SitrakaResearchAndPOC/wafmodsec)
+</br>
+keycloack  [keycloack1](https://github.com/SitrakaResearchAndPOC/keycloak_test)
+</br>
+metasploit_metasploitable  [meta1](https://github.com/SitrakaResearchAndPOC/docker_metasploit_metasploitable)
+</br>
+overflow  [overflow1](https://github.com/SitrakaResearchAndPOC/overflow)
+</br>
+owaspf_waf  [waf1](https://github.com/SitrakaResearchAndPOC/wafmodsec)
 * Jour 3 : Devsecops and security of CI
-sonarqube : [sonarqube1](https://github.com/SitrakaResearchAndPOC/sonarqube) [sonarqube2](https://www.youtube.com/watch?v=6vdRvz_LnbQ&t=9s)
 </br>
-brupsuite : [burp1](https://www.youtube.com/watch?v=rQRhHhhGTjM)
+sonarqube  [sonarqube1](https://github.com/SitrakaResearchAndPOC/sonarqube) [sonarqube2](https://www.youtube.com/watch?v=6vdRvz_LnbQ&t=9s)
 </br>
-owasp zap : [zap1](https://www.youtube.com/watch?v=cn-EH_k2iLM)
+brupsuite  [burp1](https://www.youtube.com/watch?v=rQRhHhhGTjM)
+</br>
+owasp zap  [zap1](https://www.youtube.com/watch?v=cn-EH_k2iLM)
 * Jour 4 : Devsecops and security of CD & IaC & Observability
-static iac analysis :[checkov1](https://hub.docker.com/r/bridgecrew/checkov/dockerfile) [checkov2](https://github.com/bridgecrewio/checkov) [checkov3](https://www.youtube.com/watch?v=bAkwvmZ7OGA&t=353s) [checkov4](https://www.youtube.com/watch?v=G0mwHGdj3mo) [checkov5](https://www.youtube.com/watch?v=mj4LVOq--HE) [checkov](https://www.youtube.com/watch?v=ViiZ7VxQZYM)
 </br>
-vulnerability scanning trivy: [trivy1](https://www.youtube.com/watch?v=dwce6Yl9N9Q) [trivy2](https://www.youtube.com/watch?v=BWp5JLXkbBc)
+static iac analysis [checkov1](https://hub.docker.com/r/bridgecrew/checkov/dockerfile) [checkov2](https://github.com/bridgecrewio/checkov) [checkov3](https://www.youtube.com/watch?v=bAkwvmZ7OGA&t=353s) [checkov4](https://www.youtube.com/watch?v=G0mwHGdj3mo) [checkov5](https://www.youtube.com/watch?v=mj4LVOq--HE) [checkov](https://www.youtube.com/watch?v=ViiZ7VxQZYM)
 </br>
-vulnerability scanning falco : [falco1](https://www.youtube.com/watch?v=eCC_RFlyxkg)
+vulnerability scanning trivy [trivy1](https://www.youtube.com/watch?v=dwce6Yl9N9Q) [trivy2](https://www.youtube.com/watch?v=BWp5JLXkbBc)
 </br>
-id suricata : [suricata1](https://www.youtube.com/watch?v=JVoYRUMllss) 
+vulnerability scanning falco  [falco1](https://www.youtube.com/watch?v=eCC_RFlyxkg)
 </br>
-vulnerability scanning openvas : [openvas1](https://www.youtube.com/watch?v=Hdkd0URptv0)
+id suricata  [suricata1](https://www.youtube.com/watch?v=JVoYRUMllss) 
 </br>
-volatility : [volatility1](https://www.youtube.com/watch?v=RMvVIgqfzqE)
+vulnerability scanning openvas  [openvas1](https://www.youtube.com/watch?v=Hdkd0URptv0)
 </br>
-
-wazuh : [wazuh1](https://www.youtube.com/watch?v=GslJfiRbLv8) [wazuh2](https://www.youtube.com/watch?v=0BqgKQ38USw)
-
- IaC Sercurity dynamic falco : [falco1](https://www.youtube.com/watch?v=7z1aqTi83w0) 
-* Final Ressource : [ressource1] [ressource2](https://github.com/hahwul/DevSecOps) [ressource3](https://github-com.translate.goog/JakobTheDev/awesome-devsecops?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=sc) [ressource4](https://github.com/kh4sh3i/DevSecOps) [ressource5](https://github.com/JakobTheDev/awesome-devsecops) [ressource5](https://github.com/OWASP/DevSecOpsGuideline) [ressource6](https://hackernoon.com/6-github-repos-for-devsecops-in-2024) [ressource7](https://timspark.com/blog/devsecops-tools/) [ressource8](https://www.stationx.net/top-devsecops-tools/)[ressource9](https://github.com/devsecops/awesome-devsecops) [ressource10](https://github.com/sottlmarek/DevSecOps)
+volatility  [volatility1](https://www.youtube.com/watch?v=RMvVIgqfzqE)
+</br>
+wazuh  [wazuh1](https://www.youtube.com/watch?v=GslJfiRbLv8) [wazuh2](https://www.youtube.com/watch?v=0BqgKQ38USw)
+</br>
+IaC Sercurity dynamic falco  [falco1](https://www.youtube.com/watch?v=7z1aqTi83w0) 
+* Final Ressource :
+</br>
+ [ressource1] [ressource2](https://github.com/hahwul/DevSecOps) [ressource3](https://github-com.translate.goog/JakobTheDev/awesome-devsecops?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=sc) [ressource4](https://github.com/kh4sh3i/DevSecOps) [ressource5](https://github.com/JakobTheDev/awesome-devsecops) [ressource5](https://github.com/OWASP/DevSecOpsGuideline) [ressource6](https://hackernoon.com/6-github-repos-for-devsecops-in-2024) [ressource7](https://timspark.com/blog/devsecops-tools/) [ressource8](https://www.stationx.net/top-devsecops-tools/)[ressource9](https://github.com/devsecops/awesome-devsecops) [ressource10](https://github.com/sottlmarek/DevSecOps)
