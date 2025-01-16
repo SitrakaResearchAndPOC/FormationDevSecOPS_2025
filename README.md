@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7cded31-4553-4684-94d7-c1a7ae14d0b4)# writesup Formation DevSecOPS 2025
+# writesup Formation DevSecOPS 2025
 * Jour 1 : Cryptographic (engineering and reverse engineering
 engineering  : [crypto1](https://github.com/owaspf/Day5)[crypto2](https://github.com/owaspf/Day4)
 </br>
