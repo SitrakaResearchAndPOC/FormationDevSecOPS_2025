@@ -19,6 +19,13 @@
 * vulnerability scanning openvas  [openvas1](https://www.youtube.com/watch?v=Hdkd0URptv0) </br>
 * volatility  [volatility1](https://www.youtube.com/watch?v=RMvVIgqfzqE) </br>
 * wazuh  [wazuh1](https://www.youtube.com/watch?v=GslJfiRbLv8) [wazuh2](https://www.youtube.com/watch?v=0BqgKQ38USw) </br>
+# Jour 5 : Tips and QCM
+* Open gmail
+* Join classroom code : mqnnuna
+* Do the QCM
+  
+
+
 
 # Final Ressource :
 * [ressource1](https://medium.com/cloud-native-daily/building-a-devsecops-pipeline-with-open-source-tools-ad4fd0e13515)
